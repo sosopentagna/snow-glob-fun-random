@@ -14,9 +14,21 @@ h1 {
   color: #df5034;
 }
 
+.hero {
+  padding: 3rem 1rem 1rem;
+  text-align: center;
+}
+ 
+main {
+  max-width: 32rem;
+  margin: 0 auto;
+  padding: 0 1rem 4rem;
+}
+ 
 .globe-card {
   background: #fdf7e8;
   border: 2px solid #235fd4;
+  padding: 2rem;
 }
 
 #message {
